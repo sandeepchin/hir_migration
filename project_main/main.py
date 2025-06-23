@@ -10,7 +10,7 @@ from vaccinations import Vaccinations
 from schools import Schools
 
 def main():
-    '''
+    
     p =  Provider()
     p.get_provider_type_of_practice()
     p.get_category_code()
@@ -44,11 +44,10 @@ def main():
     c.build_clinic_notes_csv()
 
     p = Patient()
-
     p.get_patient_insurance()
     p.get_patient_contacts()
     p.get_patient_allergy_risks()
-    '''
+    
     v = Vaccinations()
     v.get_vaccine_adverse_reactions()
 

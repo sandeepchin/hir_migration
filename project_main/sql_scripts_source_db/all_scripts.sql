@@ -450,7 +450,7 @@ select po.name as clinic_desc,
           
 spool off;
 
-/*
+
 spool "C:\Users\S.Chintabathina\Desktop\query_results\data_files\users.csv";
 -- Queries to get user data
 -- Tables of interest
@@ -586,7 +586,7 @@ select po.name as hl7_sender,
         po1.active_yn='Y';  -- Just bring in active orgs. Inactive orgs (even ones with vaccines) don't need users
 spool off;
 
-*/
+
 spool "C:\Users\S.Chintabathina\Desktop\query_results\data_files\clinic_notes.csv";
 /* Sql code to retrieve all types of clinic notes for providers */
 /* Mainly two types of notes in HIR - SystemInfo and VacProfile */
