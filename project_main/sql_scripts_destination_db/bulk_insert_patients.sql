@@ -1,7 +1,7 @@
 
 /* Copyright (c) 2025. Sandeep Chintabathina */
 
-/* Query to bulk inseert data from a csv into patients table via patients_view */
+/* Query to bulk insert data from a csv into patients table via patients_view */
 
 /* If you get permissions error then right click on containing folder and on security tab
 click on Edit and then Add in the next window
@@ -21,11 +21,9 @@ with
 	--FORMAT='csv',
 	--DATAFILETYPE = 'char',
 	FIELDTERMINATOR = ',',
-    ROWTERMINATOR = '\n',
-	
-    FIRSTROW = 2,
+	ROWTERMINATOR = '\n',
+	FIRSTROW = 2,
 	BATCHSIZE=100000
-	
 	--ERRORFILE = 'C:\Users\envSQLadmin\Desktop\SQLscripts\bulk_errors.txt'
 )
 GO

@@ -10,11 +10,9 @@ with
 	--FORMAT='csv',
 	--DATAFILETYPE = 'char',
 	FIELDTERMINATOR = ',',
-    ROWTERMINATOR = '\n',
-	
-    FIRSTROW = 2,
+	ROWTERMINATOR = '\n',
+	FIRSTROW = 2,
 	BATCHSIZE=100000
-	
 	--ERRORFILE = 'C:\Users\envSQLadmin\Desktop\SQLscripts\bulk_errors.txt'
 )
 GO
