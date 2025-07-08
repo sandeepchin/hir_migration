@@ -1,3 +1,6 @@
+
+/* Copyright (c) 2025. Sandeep Chintabathina */
+
 /* A function that return whether or not an org is a hl7 sender */
 
 --boolean values do not work in oracle sql but will work in oracle pl/sql

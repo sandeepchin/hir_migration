@@ -1,3 +1,6 @@
+
+/* Copyright (c) 2025. Sandeep Chintabathina */
+
 /* Bulk inserting providers, clinics, users, user_clinics, hl7_users, hl7_clinics, patient notes, 
 clinics notes, patient insurance, patient contacts, schools, school districts, patient allergy risks, 
 and adverse reactions in that order */

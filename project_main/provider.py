@@ -1,14 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[1]:
-
+#  Copyright (c) 2025. Sandeep Chintabathina
 
 # Code to map provider data into provider tables
 import pandas as pd
 import numpy as np
-
-#from project_main.provider_mapper_standalone import webiz_provider
 
 
 class Provider:

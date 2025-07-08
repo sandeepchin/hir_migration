@@ -1,3 +1,6 @@
+
+#  Copyright (c) 2025. Sandeep Chintabathina
+
 # Code to map user data into users and other containers
 
 import pandas as pd

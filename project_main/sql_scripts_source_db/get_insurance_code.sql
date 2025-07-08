@@ -1,3 +1,6 @@
+
+/* Copyright (c) 2025. Sandeep Chintabathina */
+
 CREATE OR REPLACE FUNCTION GET_INSURANCE_CODE 
         (sfas_code in INTEGER)
     RETURN INTEGER AS 

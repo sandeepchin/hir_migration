@@ -1,4 +1,5 @@
 
+/* Copyright (c) 2025. Sandeep Chintabathina */
 
 SET SQLFORMAT csv
 --set loadformat enclosures off

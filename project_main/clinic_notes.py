@@ -1,3 +1,6 @@
+
+#  Copyright (c) 2025. Sandeep Chintabathina
+
 # Code to map legacy provider comments into clinic_notes table
 
 import pandas as pd

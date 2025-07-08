@@ -1,4 +1,6 @@
 
+/* Copyright (c) 2025. Sandeep Chintabathina */
+
 /* Query to bulk inseert data from a csv into patients table via patients_view */
 
 /* If you get permissions error then right click on containing folder and on security tab

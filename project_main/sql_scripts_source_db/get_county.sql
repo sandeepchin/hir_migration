@@ -1,3 +1,6 @@
+
+/* Copyright (c) 2025. Sandeep Chintabathina */
+
 create or replace function get_county
       (zipcode in varchar2)
     return varchar2

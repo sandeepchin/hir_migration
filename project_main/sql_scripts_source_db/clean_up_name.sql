@@ -1,3 +1,6 @@
+
+/* Copyright (c) 2025. Sandeep Chintabathina */
+
 create or replace FUNCTION clean_up_name
     (name in varchar2)
     RETURN VARCHAR2 AS 
